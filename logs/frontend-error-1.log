@@ -1,0 +1,1650 @@
+2026-04-13 10:57:04 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:04 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:04 +05:30:           ^^^^^^^
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:04 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:04 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:04 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:04 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:04 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:04 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:04 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:04 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Node.js v24.14.0
+2026-04-13 10:57:04 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:04 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:04 +05:30:           ^^^^^^^
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:04 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:04 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:04 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:04 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:04 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:04 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:04 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:04 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Node.js v24.14.0
+2026-04-13 10:57:04 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:04 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:04 +05:30:           ^^^^^^^
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:04 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:04 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:04 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:04 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:04 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:04 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:04 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:04 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:05 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:05 +05:30:           ^^^^^^^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:05 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:05 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:05 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:05 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:05 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:05 +05:30:           ^^^^^^^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:05 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:05 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:05 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:05 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:05 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:05 +05:30:           ^^^^^^^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:05 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:05 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:05 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:05 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:05 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:05 +05:30:           ^^^^^^^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:05 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:05 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:05 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:05 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:05 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:05 +05:30:           ^^^^^^^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:05 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:05 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:05 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:05 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:05 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:05 +05:30:           ^^^^^^^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:05 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:05 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:05 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:05 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:57:05 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:57:05 +05:30:           ^^^^^^^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:57:05 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:57:05 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:57:05 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:57:05 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:32 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:32 +05:30:           ^^^^^^^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:32 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:32 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:32 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:32 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:32 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:32 +05:30:           ^^^^^^^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:32 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:32 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:32 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:32 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:32 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:32 +05:30:           ^^^^^^^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:32 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:32 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:32 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:32 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:32 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:32 +05:30:           ^^^^^^^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:32 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:32 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:32 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:32 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:32 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:32 +05:30:           ^^^^^^^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:32 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:32 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:32 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:32 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:32 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:32 +05:30:           ^^^^^^^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:32 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:32 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:32 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:32 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:32 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:32 +05:30:           ^^^^^^^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:32 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:32 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:32 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:32 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:32 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:32 +05:30:           ^^^^^^^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:32 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:32 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:32 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:32 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:33 +05:30:           ^^^^^^^
+2026-04-13 10:58:33 +05:30: 
+2026-04-13 10:58:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:33 +05:30: 
+2026-04-13 10:58:33 +05:30: Node.js v24.14.0
+2026-04-13 10:58:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:58:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:58:33 +05:30:           ^^^^^^^
+2026-04-13 10:58:33 +05:30: 
+2026-04-13 10:58:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:58:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:58:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:58:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:58:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:58:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:58:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:58:33 +05:30: 
+2026-04-13 10:58:33 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:14 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:14 +05:30:           ^^^^^^^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:14 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:14 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:14 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:14 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:14 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:14 +05:30:           ^^^^^^^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:14 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:14 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:14 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:14 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:14 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:14 +05:30:           ^^^^^^^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:14 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:14 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:14 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:14 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:14 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:14 +05:30:           ^^^^^^^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:14 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:14 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:14 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:14 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:14 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:14 +05:30:           ^^^^^^^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:14 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:14 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:14 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:14 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:14 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:14 +05:30:           ^^^^^^^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:14 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:14 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:14 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:14 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:14 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:14 +05:30:           ^^^^^^^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:14 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:14 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:14 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:14 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:14 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:14 +05:30:           ^^^^^^^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:14 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:14 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:14 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:14 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:15 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:15 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:15 +05:30:           ^^^^^^^
+2026-04-13 10:59:15 +05:30: 
+2026-04-13 10:59:15 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:15 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:15 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:15 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:15 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:15 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:15 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:15 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:15 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:15 +05:30: 
+2026-04-13 10:59:15 +05:30: Node.js v24.14.0
+2026-04-13 10:59:15 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 10:59:15 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 10:59:15 +05:30:           ^^^^^^^
+2026-04-13 10:59:15 +05:30: 
+2026-04-13 10:59:15 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 10:59:15 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 10:59:15 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 10:59:15 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 10:59:15 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 10:59:15 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 10:59:15 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:15 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:15 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 10:59:15 +05:30: 
+2026-04-13 10:59:15 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:22 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:22 +05:30:           ^^^^^^^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:22 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:22 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:22 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:22 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:22 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:22 +05:30:           ^^^^^^^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:22 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:22 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:22 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:22 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:22 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:22 +05:30:           ^^^^^^^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:22 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:22 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:22 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:22 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:22 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:22 +05:30:           ^^^^^^^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:22 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:22 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:22 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:22 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:22 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:22 +05:30:           ^^^^^^^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:22 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:22 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:22 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:22 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:22 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:22 +05:30:           ^^^^^^^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:22 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:22 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:22 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:22 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:22 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:22 +05:30:           ^^^^^^^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:22 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:22 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:22 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:22 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:23 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:23 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:23 +05:30:           ^^^^^^^
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:23 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:23 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:23 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:23 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:23 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:23 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:23 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:23 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Node.js v24.14.0
+2026-04-13 11:03:23 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:23 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:23 +05:30:           ^^^^^^^
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:23 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:23 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:23 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:23 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:23 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:23 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:23 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:23 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Node.js v24.14.0
+2026-04-13 11:03:23 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:03:23 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:03:23 +05:30:           ^^^^^^^
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:03:23 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:03:23 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:03:23 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:03:23 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:03:23 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:03:23 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:23 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:23 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:33 +05:30:           ^^^^^^^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:33 +05:30:           ^^^^^^^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:33 +05:30:           ^^^^^^^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:33 +05:30:           ^^^^^^^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:33 +05:30:           ^^^^^^^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:33 +05:30:           ^^^^^^^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:34 +05:30:           ^^^^^^^
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Node.js v24.14.0
+2026-04-13 11:10:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:34 +05:30:           ^^^^^^^
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Node.js v24.14.0
+2026-04-13 11:10:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:34 +05:30:           ^^^^^^^
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Node.js v24.14.0
+2026-04-13 11:10:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:10:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:10:34 +05:30:           ^^^^^^^
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:10:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:10:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:10:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:10:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:10:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:10:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Node.js v24.14.0
+2026-04-13 11:11:54 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:54 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:54 +05:30:           ^^^^^^^
+2026-04-13 11:11:54 +05:30: 
+2026-04-13 11:11:54 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:54 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:54 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:54 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:54 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:54 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:54 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:54 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:54 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:54 +05:30: 
+2026-04-13 11:11:54 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:55 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:55 +05:30:           ^^^^^^^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:55 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:55 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:55 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:55 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:55 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:55 +05:30:           ^^^^^^^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:55 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:55 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:55 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:55 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:55 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:55 +05:30:           ^^^^^^^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:55 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:55 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:55 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:55 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:55 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:55 +05:30:           ^^^^^^^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:55 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:55 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:55 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:55 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:55 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:55 +05:30:           ^^^^^^^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:55 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:55 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:55 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:55 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:55 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:55 +05:30:           ^^^^^^^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:55 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:55 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:55 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:55 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:55 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:55 +05:30:           ^^^^^^^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:55 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:55 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:55 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:55 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:56 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:56 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:56 +05:30:           ^^^^^^^
+2026-04-13 11:11:56 +05:30: 
+2026-04-13 11:11:56 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:56 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:56 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:56 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:56 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:56 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:56 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:56 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:56 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:56 +05:30: 
+2026-04-13 11:11:56 +05:30: Node.js v24.14.0
+2026-04-13 11:11:56 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:11:56 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:11:56 +05:30:           ^^^^^^^
+2026-04-13 11:11:56 +05:30: 
+2026-04-13 11:11:56 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:11:56 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:11:56 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:11:56 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:11:56 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:11:56 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:11:56 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:56 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:56 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:11:56 +05:30: 
+2026-04-13 11:11:56 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:33 +05:30:           ^^^^^^^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:33 +05:30:           ^^^^^^^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:33 +05:30:           ^^^^^^^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:33 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:33 +05:30:           ^^^^^^^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:33 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:33 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:33 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:33 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:34 +05:30:           ^^^^^^^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:34 +05:30:           ^^^^^^^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:34 +05:30:           ^^^^^^^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:34 +05:30:           ^^^^^^^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:34 +05:30:           ^^^^^^^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:15:34 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:15:34 +05:30:           ^^^^^^^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:15:34 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:15:34 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:15:34 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:15:34 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:16:50 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:50 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:50 +05:30:           ^^^^^^^
+2026-04-13 11:16:50 +05:30: 
+2026-04-13 11:16:50 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:50 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:50 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:50 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:50 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:50 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:50 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:50 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:50 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:50 +05:30: 
+2026-04-13 11:16:50 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:51 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:51 +05:30:           ^^^^^^^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:51 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:51 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:51 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:51 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:51 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:51 +05:30:           ^^^^^^^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:51 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:51 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:51 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:51 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:51 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:51 +05:30:           ^^^^^^^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:51 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:51 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:51 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:51 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:51 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:51 +05:30:           ^^^^^^^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:51 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:51 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:51 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:51 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:51 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:51 +05:30:           ^^^^^^^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:51 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:51 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:51 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:51 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:51 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:51 +05:30:           ^^^^^^^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:51 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:51 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:51 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:51 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:51 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:51 +05:30:           ^^^^^^^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:51 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:51 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:51 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:51 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:52 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:52 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:52 +05:30:           ^^^^^^^
+2026-04-13 11:16:52 +05:30: 
+2026-04-13 11:16:52 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:52 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:52 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:52 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:52 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:52 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:52 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:52 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:52 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:52 +05:30: 
+2026-04-13 11:16:52 +05:30: Node.js v24.14.0
+2026-04-13 11:16:52 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite:2
+2026-04-13 11:16:52 +05:30: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-04-13 11:16:52 +05:30:           ^^^^^^^
+2026-04-13 11:16:52 +05:30: 
+2026-04-13 11:16:52 +05:30: SyntaxError: missing ) after argument list
+2026-04-13 11:16:52 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:16:52 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:16:52 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:16:52 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:16:52 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:16:52 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:52 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:52 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:16:52 +05:30: 
+2026-04-13 11:16:52 +05:30: Node.js v24.14.0
+2026-04-13 11:19:25 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:25 +05:30: @ECHO off
+2026-04-13 11:19:25 +05:30: ^
+2026-04-13 11:19:25 +05:30: 
+2026-04-13 11:19:25 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:25 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:25 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:25 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:25 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:25 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:25 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:25 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:25 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:25 +05:30: 
+2026-04-13 11:19:25 +05:30: Node.js v24.14.0
+2026-04-13 11:19:26 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:26 +05:30: @ECHO off
+2026-04-13 11:19:26 +05:30: ^
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:26 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:26 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:26 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:26 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:26 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:26 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:26 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:26 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: Node.js v24.14.0
+2026-04-13 11:19:26 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:26 +05:30: @ECHO off
+2026-04-13 11:19:26 +05:30: ^
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:26 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:26 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:26 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:26 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:26 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:26 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:26 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:26 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: Node.js v24.14.0
+2026-04-13 11:19:26 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:26 +05:30: @ECHO off
+2026-04-13 11:19:26 +05:30: ^
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:26 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:26 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:26 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:26 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:26 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:26 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:26 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:26 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: Node.js v24.14.0
+2026-04-13 11:19:26 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:26 +05:30: @ECHO off
+2026-04-13 11:19:26 +05:30: ^
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:26 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:26 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:26 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:26 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:26 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:26 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:26 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:26 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: Node.js v24.14.0
+2026-04-13 11:19:26 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:26 +05:30: @ECHO off
+2026-04-13 11:19:26 +05:30: ^
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:26 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:26 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:26 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:26 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:26 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:26 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:26 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:26 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: Node.js v24.14.0
+2026-04-13 11:19:26 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:26 +05:30: @ECHO off
+2026-04-13 11:19:26 +05:30: ^
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:26 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:26 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:26 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:26 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:26 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:26 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:26 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:26 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:26 +05:30: 
+2026-04-13 11:19:26 +05:30: Node.js v24.14.0
+2026-04-13 11:19:27 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:27 +05:30: @ECHO off
+2026-04-13 11:19:27 +05:30: ^
+2026-04-13 11:19:27 +05:30: 
+2026-04-13 11:19:27 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:27 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:27 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:27 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:27 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:27 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:27 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:27 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:27 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:27 +05:30: 
+2026-04-13 11:19:27 +05:30: Node.js v24.14.0
+2026-04-13 11:19:27 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:27 +05:30: @ECHO off
+2026-04-13 11:19:27 +05:30: ^
+2026-04-13 11:19:27 +05:30: 
+2026-04-13 11:19:27 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:27 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:27 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:27 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:27 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:27 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:27 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:27 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:27 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:27 +05:30: 
+2026-04-13 11:19:27 +05:30: Node.js v24.14.0
+2026-04-13 11:19:27 +05:30: C:\Project\attendance\attendance-system\frontend\node_modules\.bin\vite.cmd:1
+2026-04-13 11:19:27 +05:30: @ECHO off
+2026-04-13 11:19:27 +05:30: ^
+2026-04-13 11:19:27 +05:30: 
+2026-04-13 11:19:27 +05:30: SyntaxError: Invalid or unexpected token
+2026-04-13 11:19:27 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:19:27 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:19:27 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:19:27 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:19:27 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:19:27 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:19:27 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:19:27 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:19:27 +05:30: 
+2026-04-13 11:19:27 +05:30: Node.js v24.14.0
+2026-04-13 11:23:12 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:12 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:12 +05:30: ^
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:12 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:12 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:12 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:12 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:12 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:12 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:12 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:12 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: Node.js v24.14.0
+2026-04-13 11:23:12 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:12 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:12 +05:30: ^
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:12 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:12 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:12 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:12 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:12 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:12 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:12 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:12 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: Node.js v24.14.0
+2026-04-13 11:23:12 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:12 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:12 +05:30: ^
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:12 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:12 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:12 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:12 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:12 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:12 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:12 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:12 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: Node.js v24.14.0
+2026-04-13 11:23:12 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:12 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:12 +05:30: ^
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:12 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:12 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:12 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:12 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:12 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:12 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:12 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:12 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: Node.js v24.14.0
+2026-04-13 11:23:12 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:12 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:12 +05:30: ^
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:12 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:12 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:12 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:12 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:12 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:12 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:12 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:12 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:12 +05:30: 
+2026-04-13 11:23:12 +05:30: Node.js v24.14.0
+2026-04-13 11:23:13 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:13 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:13 +05:30: ^
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:13 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:13 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:13 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:13 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:13 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:13 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:13 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:13 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: Node.js v24.14.0
+2026-04-13 11:23:13 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:13 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:13 +05:30: ^
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:13 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:13 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:13 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:13 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:13 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:13 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:13 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:13 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: Node.js v24.14.0
+2026-04-13 11:23:13 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:13 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:13 +05:30: ^
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:13 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:13 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:13 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:13 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:13 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:13 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:13 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:13 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: Node.js v24.14.0
+2026-04-13 11:23:13 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:13 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:13 +05:30: ^
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:13 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:13 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:13 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:13 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:13 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:13 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:13 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:13 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: Node.js v24.14.0
+2026-04-13 11:23:13 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:23:13 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:23:13 +05:30: ^
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:23:13 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:23:13 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:23:13 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:23:13 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:23:13 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:23:13 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:23:13 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:23:13 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:23:13 +05:30: 
+2026-04-13 11:23:13 +05:30: Node.js v24.14.0
+2026-04-13 11:24:02 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:02 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:02 +05:30: ^
+2026-04-13 11:24:02 +05:30: 
+2026-04-13 11:24:02 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:02 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:02 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:02 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:02 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:02 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:02 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:02 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:02 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:02 +05:30: 
+2026-04-13 11:24:02 +05:30: Node.js v24.14.0
+2026-04-13 11:24:02 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:02 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:02 +05:30: ^
+2026-04-13 11:24:02 +05:30: 
+2026-04-13 11:24:02 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:02 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:02 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:02 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:02 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:02 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:02 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:02 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:02 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:02 +05:30: 
+2026-04-13 11:24:02 +05:30: Node.js v24.14.0
+2026-04-13 11:24:03 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:03 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:03 +05:30: ^
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:03 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:03 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:03 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:03 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:03 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:03 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:03 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:03 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: Node.js v24.14.0
+2026-04-13 11:24:03 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:03 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:03 +05:30: ^
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:03 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:03 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:03 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:03 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:03 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:03 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:03 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:03 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: Node.js v24.14.0
+2026-04-13 11:24:03 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:03 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:03 +05:30: ^
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:03 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:03 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:03 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:03 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:03 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:03 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:03 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:03 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: Node.js v24.14.0
+2026-04-13 11:24:03 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:03 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:03 +05:30: ^
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:03 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:03 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:03 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:03 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:03 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:03 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:03 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:03 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: Node.js v24.14.0
+2026-04-13 11:24:03 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:03 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:03 +05:30: ^
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:03 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:03 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:03 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:03 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:03 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:03 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:03 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:03 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: Node.js v24.14.0
+2026-04-13 11:24:03 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:03 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:03 +05:30: ^
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:03 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:03 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:03 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:03 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:03 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:03 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:03 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:03 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:03 +05:30: 
+2026-04-13 11:24:03 +05:30: Node.js v24.14.0
+2026-04-13 11:24:04 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:04 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:04 +05:30: ^
+2026-04-13 11:24:04 +05:30: 
+2026-04-13 11:24:04 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:04 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:04 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:04 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:04 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:04 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:04 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:04 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:04 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:04 +05:30: 
+2026-04-13 11:24:04 +05:30: Node.js v24.14.0
+2026-04-13 11:24:04 +05:30: C:\PROGRAM FILES\NODEJS\NPM.CMD:1
+2026-04-13 11:24:04 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:24:04 +05:30: ^
+2026-04-13 11:24:04 +05:30: 
+2026-04-13 11:24:04 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:24:04 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:24:04 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:24:04 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:24:04 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:24:04 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:24:04 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:24:04 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:24:04 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:24:04 +05:30: 
+2026-04-13 11:24:04 +05:30: Node.js v24.14.0

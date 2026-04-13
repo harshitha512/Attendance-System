@@ -1,0 +1,300 @@
+2026-04-13 11:26:52 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:52 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:52 +05:30: ^
+2026-04-13 11:26:52 +05:30: 
+2026-04-13 11:26:52 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:52 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:52 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:52 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:52 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:52 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:52 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:52 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:52 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:52 +05:30: 
+2026-04-13 11:26:52 +05:30: Node.js v24.14.0
+2026-04-13 11:26:52 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:52 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:52 +05:30: ^
+2026-04-13 11:26:52 +05:30: 
+2026-04-13 11:26:52 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:52 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:52 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:52 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:52 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:52 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:52 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:52 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:52 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:52 +05:30: 
+2026-04-13 11:26:52 +05:30: Node.js v24.14.0
+2026-04-13 11:26:52 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:52 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:52 +05:30: ^
+2026-04-13 11:26:52 +05:30: 
+2026-04-13 11:26:52 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:52 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:52 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:52 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:52 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:52 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:52 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:52 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:52 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:52 +05:30: 
+2026-04-13 11:26:52 +05:30: Node.js v24.14.0
+2026-04-13 11:26:53 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:53 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:53 +05:30: ^
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:53 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:53 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:53 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:53 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:53 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:53 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:53 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:53 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: Node.js v24.14.0
+2026-04-13 11:26:53 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:53 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:53 +05:30: ^
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:53 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:53 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:53 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:53 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:53 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:53 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:53 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:53 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: Node.js v24.14.0
+2026-04-13 11:26:53 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:53 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:53 +05:30: ^
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:53 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:53 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:53 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:53 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:53 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:53 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:53 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:53 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: Node.js v24.14.0
+2026-04-13 11:26:53 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:53 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:53 +05:30: ^
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:53 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:53 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:53 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:53 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:53 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:53 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:53 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:53 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: Node.js v24.14.0
+2026-04-13 11:26:53 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:53 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:53 +05:30: ^
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:53 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:53 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:53 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:53 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:53 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:53 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:53 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:53 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: Node.js v24.14.0
+2026-04-13 11:26:53 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:53 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:53 +05:30: ^
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:53 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:53 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:53 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:53 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:53 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:53 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:53 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:53 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: Node.js v24.14.0
+2026-04-13 11:26:53 +05:30: C:\Program Files\nodejs\npm.cmd:1
+2026-04-13 11:26:53 +05:30: :: Created by npm, please don't edit manually.
+2026-04-13 11:26:53 +05:30: ^
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: SyntaxError: Unexpected token ':'
+2026-04-13 11:26:53 +05:30:     at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+2026-04-13 11:26:53 +05:30:     at Module._compile (node:internal/modules/cjs/loader:1786:20)
+2026-04-13 11:26:53 +05:30:     at Object..js (node:internal/modules/cjs/loader:1943:10)
+2026-04-13 11:26:53 +05:30:     at Module.load (node:internal/modules/cjs/loader:1533:32)
+2026-04-13 11:26:53 +05:30:     at Module._load (node:internal/modules/cjs/loader:1335:12)
+2026-04-13 11:26:53 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:26:53 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:26:53 +05:30:     at node:internal/main/run_main_module:33:47
+2026-04-13 11:26:53 +05:30: 
+2026-04-13 11:26:53 +05:30: Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0
+C:\Project\attendance\attendance-system\start-frontend.bat:1
+@echo off  
+^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1743:18)
+    at Module._compile (node:internal/modules/cjs/loader:1786:20)
+    at Object..js (node:internal/modules/cjs/loader:1943:10)
+    at Module.load (node:internal/modules/cjs/loader:1533:32)
+    at Module._load (node:internal/modules/cjs/loader:1335:12)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.14.0

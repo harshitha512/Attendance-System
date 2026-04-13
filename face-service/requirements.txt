@@ -1,0 +1,29 @@
+# Face Recognition Microservice dependencies
+#
+# IMPORTANT — dlib build requirements:
+#   face-recognition depends on dlib which must be compiled from source.
+#   Before pip install, ensure these are available:
+#
+#   Ubuntu/Debian:
+#     sudo apt-get install -y cmake build-essential libopenblas-dev liblapack-dev
+#
+#   macOS:
+#     brew install cmake
+#
+#   Windows:
+#     Install Visual Studio Build Tools + CMake
+#     Or use a pre-built wheel: pip install dlib‑<version>‑cpXX‑win_amd64.whl
+#     (find wheels at: https://github.com/z-mahmud22/Dlib_Windows_Python3.x)
+#
+# Recommended: use Python 3.10 — face-recognition 1.3.0 + numpy 1.24 are
+# not yet tested against Python 3.12.
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+face-recognition==1.3.0
+opencv-python-headless==4.8.1.78
+numpy==1.24.4
+Pillow==10.1.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0

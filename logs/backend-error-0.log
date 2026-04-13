@@ -1,0 +1,1360 @@
+2026-04-13 10:57:04 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:04 +05:30:   throw err;
+2026-04-13 10:57:04 +05:30:   ^
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:04 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:04 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:04 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:04 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:04 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:04 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:04 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:04 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:04 +05:30:   requireStack: []
+2026-04-13 10:57:04 +05:30: }
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Node.js v24.14.0
+2026-04-13 10:57:04 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:04 +05:30:   throw err;
+2026-04-13 10:57:04 +05:30:   ^
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:04 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:04 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:04 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:04 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:04 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:04 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:04 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:04 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:04 +05:30:   requireStack: []
+2026-04-13 10:57:04 +05:30: }
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Node.js v24.14.0
+2026-04-13 10:57:04 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:04 +05:30:   throw err;
+2026-04-13 10:57:04 +05:30:   ^
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:04 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:04 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:04 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:04 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:04 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:04 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:04 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:04 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:04 +05:30:   requireStack: []
+2026-04-13 10:57:04 +05:30: }
+2026-04-13 10:57:04 +05:30: 
+2026-04-13 10:57:04 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:05 +05:30:   throw err;
+2026-04-13 10:57:05 +05:30:   ^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:05 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:05 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:05 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:05 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:05 +05:30:   requireStack: []
+2026-04-13 10:57:05 +05:30: }
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:05 +05:30:   throw err;
+2026-04-13 10:57:05 +05:30:   ^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:05 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:05 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:05 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:05 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:05 +05:30:   requireStack: []
+2026-04-13 10:57:05 +05:30: }
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:05 +05:30:   throw err;
+2026-04-13 10:57:05 +05:30:   ^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:05 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:05 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:05 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:05 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:05 +05:30:   requireStack: []
+2026-04-13 10:57:05 +05:30: }
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:05 +05:30:   throw err;
+2026-04-13 10:57:05 +05:30:   ^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:05 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:05 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:05 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:05 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:05 +05:30:   requireStack: []
+2026-04-13 10:57:05 +05:30: }
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:05 +05:30:   throw err;
+2026-04-13 10:57:05 +05:30:   ^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:05 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:05 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:05 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:05 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:05 +05:30:   requireStack: []
+2026-04-13 10:57:05 +05:30: }
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:05 +05:30:   throw err;
+2026-04-13 10:57:05 +05:30:   ^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:05 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:05 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:05 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:05 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:05 +05:30:   requireStack: []
+2026-04-13 10:57:05 +05:30: }
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:57:05 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:57:05 +05:30:   throw err;
+2026-04-13 10:57:05 +05:30:   ^
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:57:05 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:57:05 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:57:05 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:57:05 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:57:05 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:57:05 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:57:05 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:57:05 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:57:05 +05:30:   requireStack: []
+2026-04-13 10:57:05 +05:30: }
+2026-04-13 10:57:05 +05:30: 
+2026-04-13 10:57:05 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:32 +05:30:   throw err;
+2026-04-13 10:58:32 +05:30:   ^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:32 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:32 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:32 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:32 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:32 +05:30:   requireStack: []
+2026-04-13 10:58:32 +05:30: }
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:32 +05:30:   throw err;
+2026-04-13 10:58:32 +05:30:   ^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:32 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:32 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:32 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:32 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:32 +05:30:   requireStack: []
+2026-04-13 10:58:32 +05:30: }
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:32 +05:30:   throw err;
+2026-04-13 10:58:32 +05:30:   ^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:32 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:32 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:32 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:32 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:32 +05:30:   requireStack: []
+2026-04-13 10:58:32 +05:30: }
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:32 +05:30:   throw err;
+2026-04-13 10:58:32 +05:30:   ^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:32 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:32 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:32 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:32 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:32 +05:30:   requireStack: []
+2026-04-13 10:58:32 +05:30: }
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:32 +05:30:   throw err;
+2026-04-13 10:58:32 +05:30:   ^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:32 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:32 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:32 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:32 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:32 +05:30:   requireStack: []
+2026-04-13 10:58:32 +05:30: }
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:32 +05:30:   throw err;
+2026-04-13 10:58:32 +05:30:   ^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:32 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:32 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:32 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:32 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:32 +05:30:   requireStack: []
+2026-04-13 10:58:32 +05:30: }
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:32 +05:30:   throw err;
+2026-04-13 10:58:32 +05:30:   ^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:32 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:32 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:32 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:32 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:32 +05:30:   requireStack: []
+2026-04-13 10:58:32 +05:30: }
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:32 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:32 +05:30:   throw err;
+2026-04-13 10:58:32 +05:30:   ^
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:32 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:32 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:32 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:32 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:32 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:32 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:32 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:32 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:32 +05:30:   requireStack: []
+2026-04-13 10:58:32 +05:30: }
+2026-04-13 10:58:32 +05:30: 
+2026-04-13 10:58:32 +05:30: Node.js v24.14.0
+2026-04-13 10:58:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:33 +05:30:   throw err;
+2026-04-13 10:58:33 +05:30:   ^
+2026-04-13 10:58:33 +05:30: 
+2026-04-13 10:58:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:33 +05:30:   requireStack: []
+2026-04-13 10:58:33 +05:30: }
+2026-04-13 10:58:33 +05:30: 
+2026-04-13 10:58:33 +05:30: Node.js v24.14.0
+2026-04-13 10:58:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:58:33 +05:30:   throw err;
+2026-04-13 10:58:33 +05:30:   ^
+2026-04-13 10:58:33 +05:30: 
+2026-04-13 10:58:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:58:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:58:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:58:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:58:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:58:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:58:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:58:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:58:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:58:33 +05:30:   requireStack: []
+2026-04-13 10:58:33 +05:30: }
+2026-04-13 10:58:33 +05:30: 
+2026-04-13 10:58:33 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:14 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:14 +05:30:   throw err;
+2026-04-13 10:59:14 +05:30:   ^
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:14 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:14 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:14 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:14 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:14 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:14 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:14 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:14 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:14 +05:30:   requireStack: []
+2026-04-13 10:59:14 +05:30: }
+2026-04-13 10:59:14 +05:30: 
+2026-04-13 10:59:14 +05:30: Node.js v24.14.0
+2026-04-13 10:59:15 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 10:59:15 +05:30:   throw err;
+2026-04-13 10:59:15 +05:30:   ^
+2026-04-13 10:59:15 +05:30: 
+2026-04-13 10:59:15 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 10:59:15 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 10:59:15 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 10:59:15 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 10:59:15 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 10:59:15 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 10:59:15 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 10:59:15 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 10:59:15 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 10:59:15 +05:30:   requireStack: []
+2026-04-13 10:59:15 +05:30: }
+2026-04-13 10:59:15 +05:30: 
+2026-04-13 10:59:15 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:22 +05:30:   throw err;
+2026-04-13 11:03:22 +05:30:   ^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:22 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:22 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:22 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:22 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:22 +05:30:   requireStack: []
+2026-04-13 11:03:22 +05:30: }
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:22 +05:30:   throw err;
+2026-04-13 11:03:22 +05:30:   ^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:22 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:22 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:22 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:22 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:22 +05:30:   requireStack: []
+2026-04-13 11:03:22 +05:30: }
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:22 +05:30:   throw err;
+2026-04-13 11:03:22 +05:30:   ^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:22 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:22 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:22 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:22 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:22 +05:30:   requireStack: []
+2026-04-13 11:03:22 +05:30: }
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:22 +05:30:   throw err;
+2026-04-13 11:03:22 +05:30:   ^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:22 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:22 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:22 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:22 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:22 +05:30:   requireStack: []
+2026-04-13 11:03:22 +05:30: }
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:22 +05:30:   throw err;
+2026-04-13 11:03:22 +05:30:   ^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:22 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:22 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:22 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:22 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:22 +05:30:   requireStack: []
+2026-04-13 11:03:22 +05:30: }
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:22 +05:30:   throw err;
+2026-04-13 11:03:22 +05:30:   ^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:22 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:22 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:22 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:22 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:22 +05:30:   requireStack: []
+2026-04-13 11:03:22 +05:30: }
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:22 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:22 +05:30:   throw err;
+2026-04-13 11:03:22 +05:30:   ^
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:22 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:22 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:22 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:22 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:22 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:22 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:22 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:22 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:22 +05:30:   requireStack: []
+2026-04-13 11:03:22 +05:30: }
+2026-04-13 11:03:22 +05:30: 
+2026-04-13 11:03:22 +05:30: Node.js v24.14.0
+2026-04-13 11:03:23 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:23 +05:30:   throw err;
+2026-04-13 11:03:23 +05:30:   ^
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:23 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:23 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:23 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:23 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:23 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:23 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:23 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:23 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:23 +05:30:   requireStack: []
+2026-04-13 11:03:23 +05:30: }
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Node.js v24.14.0
+2026-04-13 11:03:23 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:23 +05:30:   throw err;
+2026-04-13 11:03:23 +05:30:   ^
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:23 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:23 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:23 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:23 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:23 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:23 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:23 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:23 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:23 +05:30:   requireStack: []
+2026-04-13 11:03:23 +05:30: }
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Node.js v24.14.0
+2026-04-13 11:03:23 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:03:23 +05:30:   throw err;
+2026-04-13 11:03:23 +05:30:   ^
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:03:23 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:03:23 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:03:23 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:03:23 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:03:23 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:03:23 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:03:23 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:03:23 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:03:23 +05:30:   requireStack: []
+2026-04-13 11:03:23 +05:30: }
+2026-04-13 11:03:23 +05:30: 
+2026-04-13 11:03:23 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:33 +05:30:   throw err;
+2026-04-13 11:10:33 +05:30:   ^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:33 +05:30:   requireStack: []
+2026-04-13 11:10:33 +05:30: }
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:33 +05:30:   throw err;
+2026-04-13 11:10:33 +05:30:   ^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:33 +05:30:   requireStack: []
+2026-04-13 11:10:33 +05:30: }
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:33 +05:30:   throw err;
+2026-04-13 11:10:33 +05:30:   ^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:33 +05:30:   requireStack: []
+2026-04-13 11:10:33 +05:30: }
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:33 +05:30:   throw err;
+2026-04-13 11:10:33 +05:30:   ^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:33 +05:30:   requireStack: []
+2026-04-13 11:10:33 +05:30: }
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:33 +05:30:   throw err;
+2026-04-13 11:10:33 +05:30:   ^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:33 +05:30:   requireStack: []
+2026-04-13 11:10:33 +05:30: }
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:33 +05:30:   throw err;
+2026-04-13 11:10:33 +05:30:   ^
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:33 +05:30:   requireStack: []
+2026-04-13 11:10:33 +05:30: }
+2026-04-13 11:10:33 +05:30: 
+2026-04-13 11:10:33 +05:30: Node.js v24.14.0
+2026-04-13 11:10:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:34 +05:30:   throw err;
+2026-04-13 11:10:34 +05:30:   ^
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:34 +05:30:   requireStack: []
+2026-04-13 11:10:34 +05:30: }
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Node.js v24.14.0
+2026-04-13 11:10:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:34 +05:30:   throw err;
+2026-04-13 11:10:34 +05:30:   ^
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:34 +05:30:   requireStack: []
+2026-04-13 11:10:34 +05:30: }
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Node.js v24.14.0
+2026-04-13 11:10:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:34 +05:30:   throw err;
+2026-04-13 11:10:34 +05:30:   ^
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:34 +05:30:   requireStack: []
+2026-04-13 11:10:34 +05:30: }
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Node.js v24.14.0
+2026-04-13 11:10:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:10:34 +05:30:   throw err;
+2026-04-13 11:10:34 +05:30:   ^
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:10:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:10:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:10:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:10:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:10:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:10:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:10:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:10:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:10:34 +05:30:   requireStack: []
+2026-04-13 11:10:34 +05:30: }
+2026-04-13 11:10:34 +05:30: 
+2026-04-13 11:10:34 +05:30: Node.js v24.14.0
+2026-04-13 11:11:54 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:54 +05:30:   throw err;
+2026-04-13 11:11:54 +05:30:   ^
+2026-04-13 11:11:54 +05:30: 
+2026-04-13 11:11:54 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:54 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:54 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:54 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:54 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:54 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:54 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:54 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:54 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:54 +05:30:   requireStack: []
+2026-04-13 11:11:54 +05:30: }
+2026-04-13 11:11:54 +05:30: 
+2026-04-13 11:11:54 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:55 +05:30:   throw err;
+2026-04-13 11:11:55 +05:30:   ^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:55 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:55 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:55 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:55 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:55 +05:30:   requireStack: []
+2026-04-13 11:11:55 +05:30: }
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:55 +05:30:   throw err;
+2026-04-13 11:11:55 +05:30:   ^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:55 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:55 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:55 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:55 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:55 +05:30:   requireStack: []
+2026-04-13 11:11:55 +05:30: }
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:55 +05:30:   throw err;
+2026-04-13 11:11:55 +05:30:   ^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:55 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:55 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:55 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:55 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:55 +05:30:   requireStack: []
+2026-04-13 11:11:55 +05:30: }
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:55 +05:30:   throw err;
+2026-04-13 11:11:55 +05:30:   ^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:55 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:55 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:55 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:55 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:55 +05:30:   requireStack: []
+2026-04-13 11:11:55 +05:30: }
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:55 +05:30:   throw err;
+2026-04-13 11:11:55 +05:30:   ^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:55 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:55 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:55 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:55 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:55 +05:30:   requireStack: []
+2026-04-13 11:11:55 +05:30: }
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:55 +05:30:   throw err;
+2026-04-13 11:11:55 +05:30:   ^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:55 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:55 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:55 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:55 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:55 +05:30:   requireStack: []
+2026-04-13 11:11:55 +05:30: }
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:55 +05:30:   throw err;
+2026-04-13 11:11:55 +05:30:   ^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:55 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:55 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:55 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:55 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:55 +05:30:   requireStack: []
+2026-04-13 11:11:55 +05:30: }
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:55 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:55 +05:30:   throw err;
+2026-04-13 11:11:55 +05:30:   ^
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:55 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:55 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:55 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:55 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:55 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:55 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:55 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:55 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:55 +05:30:   requireStack: []
+2026-04-13 11:11:55 +05:30: }
+2026-04-13 11:11:55 +05:30: 
+2026-04-13 11:11:55 +05:30: Node.js v24.14.0
+2026-04-13 11:11:56 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:11:56 +05:30:   throw err;
+2026-04-13 11:11:56 +05:30:   ^
+2026-04-13 11:11:56 +05:30: 
+2026-04-13 11:11:56 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:11:56 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:11:56 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:11:56 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:11:56 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:11:56 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:11:56 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:11:56 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:11:56 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:11:56 +05:30:   requireStack: []
+2026-04-13 11:11:56 +05:30: }
+2026-04-13 11:11:56 +05:30: 
+2026-04-13 11:11:56 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:33 +05:30:   throw err;
+2026-04-13 11:15:33 +05:30:   ^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:33 +05:30:   requireStack: []
+2026-04-13 11:15:33 +05:30: }
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:33 +05:30:   throw err;
+2026-04-13 11:15:33 +05:30:   ^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:33 +05:30:   requireStack: []
+2026-04-13 11:15:33 +05:30: }
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:33 +05:30:   throw err;
+2026-04-13 11:15:33 +05:30:   ^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:33 +05:30:   requireStack: []
+2026-04-13 11:15:33 +05:30: }
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:33 +05:30:   throw err;
+2026-04-13 11:15:33 +05:30:   ^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:33 +05:30:   requireStack: []
+2026-04-13 11:15:33 +05:30: }
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:33 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:33 +05:30:   throw err;
+2026-04-13 11:15:33 +05:30:   ^
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:33 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:33 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:33 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:33 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:33 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:33 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:33 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:33 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:33 +05:30:   requireStack: []
+2026-04-13 11:15:33 +05:30: }
+2026-04-13 11:15:33 +05:30: 
+2026-04-13 11:15:33 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:34 +05:30:   throw err;
+2026-04-13 11:15:34 +05:30:   ^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:34 +05:30:   requireStack: []
+2026-04-13 11:15:34 +05:30: }
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:34 +05:30:   throw err;
+2026-04-13 11:15:34 +05:30:   ^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:34 +05:30:   requireStack: []
+2026-04-13 11:15:34 +05:30: }
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:34 +05:30:   throw err;
+2026-04-13 11:15:34 +05:30:   ^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:34 +05:30:   requireStack: []
+2026-04-13 11:15:34 +05:30: }
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:34 +05:30:   throw err;
+2026-04-13 11:15:34 +05:30:   ^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:34 +05:30:   requireStack: []
+2026-04-13 11:15:34 +05:30: }
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:15:34 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:15:34 +05:30:   throw err;
+2026-04-13 11:15:34 +05:30:   ^
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:15:34 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:15:34 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:15:34 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:15:34 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:15:34 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:15:34 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:15:34 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:15:34 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:15:34 +05:30:   requireStack: []
+2026-04-13 11:15:34 +05:30: }
+2026-04-13 11:15:34 +05:30: 
+2026-04-13 11:15:34 +05:30: Node.js v24.14.0
+2026-04-13 11:16:50 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:50 +05:30:   throw err;
+2026-04-13 11:16:50 +05:30:   ^
+2026-04-13 11:16:50 +05:30: 
+2026-04-13 11:16:50 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:50 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:50 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:50 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:50 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:50 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:50 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:50 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:50 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:50 +05:30:   requireStack: []
+2026-04-13 11:16:50 +05:30: }
+2026-04-13 11:16:50 +05:30: 
+2026-04-13 11:16:50 +05:30: Node.js v24.14.0
+2026-04-13 11:16:50 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:50 +05:30:   throw err;
+2026-04-13 11:16:50 +05:30:   ^
+2026-04-13 11:16:50 +05:30: 
+2026-04-13 11:16:50 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:50 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:50 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:50 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:50 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:50 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:50 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:50 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:50 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:50 +05:30:   requireStack: []
+2026-04-13 11:16:50 +05:30: }
+2026-04-13 11:16:50 +05:30: 
+2026-04-13 11:16:50 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:51 +05:30:   throw err;
+2026-04-13 11:16:51 +05:30:   ^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:51 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:51 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:51 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:51 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:51 +05:30:   requireStack: []
+2026-04-13 11:16:51 +05:30: }
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:51 +05:30:   throw err;
+2026-04-13 11:16:51 +05:30:   ^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:51 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:51 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:51 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:51 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:51 +05:30:   requireStack: []
+2026-04-13 11:16:51 +05:30: }
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:51 +05:30:   throw err;
+2026-04-13 11:16:51 +05:30:   ^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:51 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:51 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:51 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:51 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:51 +05:30:   requireStack: []
+2026-04-13 11:16:51 +05:30: }
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:51 +05:30:   throw err;
+2026-04-13 11:16:51 +05:30:   ^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:51 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:51 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:51 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:51 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:51 +05:30:   requireStack: []
+2026-04-13 11:16:51 +05:30: }
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:51 +05:30:   throw err;
+2026-04-13 11:16:51 +05:30:   ^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:51 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:51 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:51 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:51 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:51 +05:30:   requireStack: []
+2026-04-13 11:16:51 +05:30: }
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:51 +05:30:   throw err;
+2026-04-13 11:16:51 +05:30:   ^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:51 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:51 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:51 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:51 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:51 +05:30:   requireStack: []
+2026-04-13 11:16:51 +05:30: }
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:51 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:51 +05:30:   throw err;
+2026-04-13 11:16:51 +05:30:   ^
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:51 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:51 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:51 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:51 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:51 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:51 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:51 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:51 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:51 +05:30:   requireStack: []
+2026-04-13 11:16:51 +05:30: }
+2026-04-13 11:16:51 +05:30: 
+2026-04-13 11:16:51 +05:30: Node.js v24.14.0
+2026-04-13 11:16:52 +05:30: node:internal/modules/cjs/loader:1459
+2026-04-13 11:16:52 +05:30:   throw err;
+2026-04-13 11:16:52 +05:30:   ^
+2026-04-13 11:16:52 +05:30: 
+2026-04-13 11:16:52 +05:30: Error: Cannot find module 'C:\Project\attendance\attendance-system\backend\index.js'
+2026-04-13 11:16:52 +05:30:     at Module._resolveFilename (node:internal/modules/cjs/loader:1456:15)
+2026-04-13 11:16:52 +05:30:     at defaultResolveImpl (node:internal/modules/cjs/loader:1066:19)
+2026-04-13 11:16:52 +05:30:     at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1071:22)
+2026-04-13 11:16:52 +05:30:     at Module._load (node:internal/modules/cjs/loader:1242:25)
+2026-04-13 11:16:52 +05:30:     at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+2026-04-13 11:16:52 +05:30:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-04-13 11:16:52 +05:30:     at node:internal/main/run_main_module:33:47 {
+2026-04-13 11:16:52 +05:30:   code: 'MODULE_NOT_FOUND',
+2026-04-13 11:16:52 +05:30:   requireStack: []
+2026-04-13 11:16:52 +05:30: }
+2026-04-13 11:16:52 +05:30: 
+2026-04-13 11:16:52 +05:30: Node.js v24.14.0

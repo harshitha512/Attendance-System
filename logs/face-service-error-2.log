@@ -1,0 +1,154 @@
+2026-04-13 10:59:24 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 10:59:24 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 10:59:24 +05:30: 
+2026-04-13 10:59:24 +05:30:         Read more about it in the
+2026-04-13 10:59:24 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 10:59:24 +05:30:         
+2026-04-13 10:59:24 +05:30:   @app.on_event("startup")
+2026-04-13 10:59:25 +05:30: INFO:     Started server process [16860]
+2026-04-13 10:59:25 +05:30: INFO:     Waiting for application startup.
+2026-04-13 10:59:25 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 10:59:25 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 10:59:25 +05:30: INFO:__main__:Face service ready.
+2026-04-13 10:59:25 +05:30: INFO:     Application startup complete.
+2026-04-13 10:59:25 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:03:27 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:03:27 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:03:27 +05:30: 
+2026-04-13 11:03:27 +05:30:         Read more about it in the
+2026-04-13 11:03:27 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:03:27 +05:30:         
+2026-04-13 11:03:27 +05:30:   @app.on_event("startup")
+2026-04-13 11:03:27 +05:30: INFO:     Started server process [5924]
+2026-04-13 11:03:27 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:03:27 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:03:27 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:03:27 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:03:27 +05:30: INFO:     Application startup complete.
+2026-04-13 11:03:27 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:10:38 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:10:38 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:10:38 +05:30: 
+2026-04-13 11:10:38 +05:30:         Read more about it in the
+2026-04-13 11:10:38 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:10:38 +05:30:         
+2026-04-13 11:10:38 +05:30:   @app.on_event("startup")
+2026-04-13 11:10:38 +05:30: INFO:     Started server process [6116]
+2026-04-13 11:10:38 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:10:38 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:10:38 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:10:38 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:10:38 +05:30: INFO:     Application startup complete.
+2026-04-13 11:10:38 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:12:00 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:12:00 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:12:00 +05:30: 
+2026-04-13 11:12:00 +05:30:         Read more about it in the
+2026-04-13 11:12:00 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:12:00 +05:30:         
+2026-04-13 11:12:00 +05:30:   @app.on_event("startup")
+2026-04-13 11:12:00 +05:30: INFO:     Started server process [13900]
+2026-04-13 11:12:00 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:12:00 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:12:00 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:12:00 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:12:00 +05:30: INFO:     Application startup complete.
+2026-04-13 11:12:00 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:15:39 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:15:39 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:15:39 +05:30: 
+2026-04-13 11:15:39 +05:30:         Read more about it in the
+2026-04-13 11:15:39 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:15:39 +05:30:         
+2026-04-13 11:15:39 +05:30:   @app.on_event("startup")
+2026-04-13 11:15:39 +05:30: INFO:     Started server process [13316]
+2026-04-13 11:15:39 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:15:39 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:15:39 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:15:39 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:15:39 +05:30: INFO:     Application startup complete.
+2026-04-13 11:15:39 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:16:56 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:16:56 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:16:56 +05:30: 
+2026-04-13 11:16:56 +05:30:         Read more about it in the
+2026-04-13 11:16:56 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:16:56 +05:30:         
+2026-04-13 11:16:56 +05:30:   @app.on_event("startup")
+2026-04-13 11:16:56 +05:30: INFO:     Started server process [6140]
+2026-04-13 11:16:56 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:16:56 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:16:56 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:16:56 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:16:56 +05:30: INFO:     Application startup complete.
+2026-04-13 11:16:56 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:19:31 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:19:31 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:19:31 +05:30: 
+2026-04-13 11:19:31 +05:30:         Read more about it in the
+2026-04-13 11:19:31 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:19:31 +05:30:         
+2026-04-13 11:19:31 +05:30:   @app.on_event("startup")
+2026-04-13 11:19:31 +05:30: INFO:     Started server process [7772]
+2026-04-13 11:19:31 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:19:31 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:19:31 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:19:31 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:19:31 +05:30: INFO:     Application startup complete.
+2026-04-13 11:19:31 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:23:17 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:23:17 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:23:17 +05:30: 
+2026-04-13 11:23:17 +05:30:         Read more about it in the
+2026-04-13 11:23:17 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:23:17 +05:30:         
+2026-04-13 11:23:17 +05:30:   @app.on_event("startup")
+2026-04-13 11:23:17 +05:30: INFO:     Started server process [10524]
+2026-04-13 11:23:17 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:23:17 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:23:17 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:23:17 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:23:17 +05:30: INFO:     Application startup complete.
+2026-04-13 11:23:17 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:24:08 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:24:08 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:24:08 +05:30: 
+2026-04-13 11:24:08 +05:30:         Read more about it in the
+2026-04-13 11:24:08 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:24:08 +05:30:         
+2026-04-13 11:24:08 +05:30:   @app.on_event("startup")
+2026-04-13 11:24:08 +05:30: INFO:     Started server process [17304]
+2026-04-13 11:24:08 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:24:08 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:24:08 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:24:08 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:24:08 +05:30: INFO:     Application startup complete.
+2026-04-13 11:24:08 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-13 11:34:07 +05:30: C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+2026-04-13 11:34:07 +05:30:         on_event is deprecated, use lifespan event handlers instead.
+2026-04-13 11:34:07 +05:30: 
+2026-04-13 11:34:07 +05:30:         Read more about it in the
+2026-04-13 11:34:07 +05:30:         [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+2026-04-13 11:34:07 +05:30:         
+2026-04-13 11:34:07 +05:30:   @app.on_event("startup")
+2026-04-13 11:34:07 +05:30: INFO:     Started server process [15296]
+2026-04-13 11:34:07 +05:30: INFO:     Waiting for application startup.
+2026-04-13 11:34:08 +05:30: INFO:__main__:Database connection OK.
+2026-04-13 11:34:08 +05:30: INFO:__main__:Loaded 0 face encoding(s) from DB.
+2026-04-13 11:34:08 +05:30: INFO:__main__:Face service ready.
+2026-04-13 11:34:08 +05:30: INFO:     Application startup complete.
+2026-04-13 11:34:08 +05:30: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+C:\Project\attendance\attendance-system\face-service\main.py:85: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("startup")
+INFO:     Started server process [4440]
+INFO:     Waiting for application startup.
+INFO:__main__:Database connection OK.
+INFO:__main__:Loaded 0 face encoding(s) from DB.
+INFO:__main__:Face service ready.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
