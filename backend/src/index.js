@@ -11,9 +11,12 @@ const logger = require('./config/logger');
 
 const app = express();
 
-// Ensure logs and uploads dirs exist
+// ✅ FIX: Use /tmp for writable storage on Vercel
+const isVercel = process.env.VERCEL === '1';
 ['logs', 'uploads'].forEach(dir => {
-  const p = path.join(__dirname, '..', dir);
+  const p = isVercel
+    ? path.join('/tmp', dir)
+    : path.join(__dirname, '..', dir);
   if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true });
 });
 
